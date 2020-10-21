@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ChessPractice
 {
-    public interface ICastable
+    public interface ICastleable
     {
-        public bool CanCastle { get; set; }
         public bool hasMoved { get; set; }
+        public bool CanCastle { get; set; }
     }
 }

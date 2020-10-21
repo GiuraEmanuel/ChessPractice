@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace ChessPractice
 {
-    class Program
+    public enum PieceColor
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        White,
+        Black
     }
 }

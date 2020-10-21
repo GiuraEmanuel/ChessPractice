@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace ChessPractice
 {
-    class Program
+    public class Board
     {
-        static void Main(string[] args)
+        public void CreateBoard()
         {
             
         }

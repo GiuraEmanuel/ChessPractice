@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChessPractice
 {
-    enum PieceSide
+    public enum SquareColor
     {
         White,
         Black
